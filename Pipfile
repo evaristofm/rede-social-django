@@ -15,7 +15,7 @@ certifi = "*"
 django-heroku = "*"
 gunicorn = "*"
 psycopg2-binary = "==2.8.6"
-psycopg2 = "*"
+psycopg2 = "==2.8.6"
 
 [dev-packages]
 
