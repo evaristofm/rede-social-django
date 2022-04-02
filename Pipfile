@@ -16,6 +16,7 @@ django-heroku = "*"
 gunicorn = "*"
 psycopg2-binary = "==2.8.6"
 psycopg2 = "==2.8.6"
+easy-thumbnails = "==2.7"
 
 [dev-packages]
 

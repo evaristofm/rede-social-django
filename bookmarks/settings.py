@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.admin',
     'social_django',
     'django_extensions',
+    'easy_thumbnails',
 ]
 
 MIDDLEWARE = [
